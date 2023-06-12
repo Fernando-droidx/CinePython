@@ -3,7 +3,15 @@ def ticekt(nombre,asientos, pelicula):
     nombre = f"A nombre de {nombre} para la peli de {asientos}, Con asientos de: {pelicula}"
     archivo.write(nombre)
     archivo.close()
-    print("Archivo subido")
+    print("Archivo en txt")
+    
+    leer = open('ticket.txt', 'r')
+    leerarchivo = leer.read()
+    print(leerarchivo)
+
+
+
+
     
     
 
