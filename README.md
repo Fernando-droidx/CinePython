@@ -39,10 +39,11 @@ Ingresa la pelicula que desees ver: Volver al futuro
 Ingresa el numero de asientos: 5
 ----------------------------------------------------------
 El precio es de: 400
-None
+
 ----------------------------------------------------------
 Archivo en txt
 A nombre de Carlos para la peli de Volver al futuro, Con asientos de: 5
+
 Gracias por su compra!
-None
+
 ----------------------------------------------------------
