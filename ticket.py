@@ -8,6 +8,7 @@ def ticekt(nombre,asientos, pelicula):
     leer = open('ticket.txt', 'r')
     leerarchivo = leer.read()
     print(leerarchivo)
+    print("Gracias por su compra!")
 
 
 
