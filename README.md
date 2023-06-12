@@ -28,20 +28,24 @@ Este proyecto de Python implementa un sistema básico de administración para un
 ## Ejemplo de ticket generado
 
 El precio es parejo de 80$ MXN
+
 Volver al futuro   
 La niña del aro    
 Bob Esponja        
 Moana
 Canelo vs fury     
-None
+
 Ingresa tu nombre: Carlos
+
 Ingresa la pelicula que desees ver: Volver al futuro
+
 Ingresa el numero de asientos: 5
 ----------------------------------------------------------
 El precio es de: 400
 
 ----------------------------------------------------------
 Archivo en txt
+
 A nombre de Carlos para la peli de Volver al futuro, Con asientos de: 5
 
 Gracias por su compra!
