@@ -40,6 +40,7 @@ Ingresa tu nombre: Carlos
 Ingresa la pelicula que desees ver: Volver al futuro
 
 Ingresa el numero de asientos: 5
+
 ----------------------------------------------------------
 El precio es de: 400
 
